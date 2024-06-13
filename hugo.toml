@@ -2,3 +2,13 @@ baseURL = 'https://tews.dev/'
 languageCode = 'de-de'
 title = 'tews.dev'
 theme = 'paper'
+
+[params]
+  color = 'linen'                           # linen, wheat, gray, light
+
+  twitter = 'mewsen'
+  github = 'mewsen'
+  rss = true
+
+  name = 'Michael Tews'
+  #bio = 'YOUR_BIO'
