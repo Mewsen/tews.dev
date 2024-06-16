@@ -1,7 +1,7 @@
 baseURL = 'https://tews.dev/'
 languageCode = 'de-de'
 title = 'tews.dev'
-theme = 'paper'
+theme = ['hugo-video', 'paper']
 
 [params]
   color = 'linen'                           # linen, wheat, gray, light
@@ -11,4 +11,4 @@ theme = 'paper'
   rss = true
 
   name = 'Michael Tews'
-  #bio = 'YOUR_BIO'
+  bio = 'Software Entwickler'
