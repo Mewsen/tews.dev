@@ -37,7 +37,7 @@ Minimiere die Abhängigkeiten von externen Bibliotheken und Frameworks, um die K
 Continuous Integration und Continuous Deployment (CI/CD) sind bewährte Methoden, um die Qualität und Zuverlässigkeit von Software zu erhöhen. Setze ein CI/CD-System ein, um automatisierte Tests und Deployments zu ermöglichen und sicherzustellen, dass jede Code-Änderung schnell und zuverlässig integriert wird.
 
 ## Versionskontrollsystem (VCS)
-Verwende ein Versionskontrollsystem wie Git, um Änderungen am Code nachzuvollziehen und zusammenzuarbeiten. Nutze Branches, um neue Features oder Bugfixes zu entwickeln, und erstelle regelmäßig Commits mit aussagekräftigen Nachrichten ([Standardisierte Commits](https://www.conventionalcommits.org/)). Dies erleichtert das Nachverfolgen von Änderungen und das Identifizieren von Fehlern.
+Verwende ein Versionskontrollsystem wie Git, um Änderungen am Code nachzuvollziehen und zusammenzuarbeiten. Nutze Branches, um neue Features oder Bugfixes zu entwickeln, und erstelle regelmäßig Commits mit aussagekräftigen Nachrichten ([Standardisierte Commits](/posts/conventional-commits)). Dies erleichtert das Nachverfolgen von Änderungen und das Identifizieren von Fehlern.
 
 ## Abstraktionen
 Abstraktionen helfen dabei, Komplexität zu verbergen und den Code verständlicher zu machen. Verwende Abstraktionen jedoch sparsam und bewusst, da sie auch die Komplexität erhöhen können. Gute Abstraktionen vereinfachen das Verständnis und die Wartung des Codes.
