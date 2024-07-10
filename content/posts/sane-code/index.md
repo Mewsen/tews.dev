@@ -4,6 +4,10 @@ date = 2024-07-10
 draft = false 
 +++
 
+# Einleitung
+
+In der Softwareentwicklung ist es entscheidend, Code von hoher Qualität zu schreiben, der sowohl lesbar als auch wartbar ist. Nach langer Überlegung und Reflexion bin ich zu folgenden Punkten gekommen, die aus meiner Erfahrung zu besserer Software führen. Diese sind in einer unsortierten Auflistung dargestellt.
+
 ## Verwende Asserts um Programmierfehler zu vermeiden
 Im Gegensatz zu erwarteten Betriebsfehlern, die behandelt werden müssen, sind Assertion-Fehler unerwartet. Der einzig richtige Umgang mit fehlerhaftem Code ist ein Absturz. Assertions verwandeln katastrophale Fehler in weniger schwerwiegende Fehler und sind nützlich beim Aufdecken von Fehlern durch Fuzzing.
 
