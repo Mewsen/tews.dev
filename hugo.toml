@@ -8,7 +8,7 @@ theme = ['hugo-video', 'paper']
 
   twitter = 'mewsen'
   github = 'mewsen'
-  rss = true
+  rss = false
 
   name = 'Michael Tews'
   bio = 'Software Entwickler'
