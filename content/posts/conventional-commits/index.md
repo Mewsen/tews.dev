@@ -1,5 +1,6 @@
 +++
 title = 'Standardisierte Commits'
+description = "Schreibe standardisierte Commit-Nachrichten"
 date = 2024-06-16T12:40:24+02:00
 draft = false 
 +++
