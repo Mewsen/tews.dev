@@ -6,7 +6,6 @@ theme = ['hugo-video', 'paper']
 [params]
   color = 'linen'                           # linen, wheat, gray, light
 
-  twitter = 'mewsen'
   github = 'mewsen'
 
   name = 'Michael Tews'
