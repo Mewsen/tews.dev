@@ -10,3 +10,10 @@ theme = ['hugo-video', 'paper']
 
   name = 'Michael Tews'
   bio = 'Softwareentwickler'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Über mich"
+    url = "/about/"
+    weight = 10
